@@ -1,0 +1,27 @@
+2018-01-11 20:50:33,553 INFO o.a.j.u.JMeterUtils: Setting Locale to en_IN
+2018-01-11 20:50:33,581 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2018-01-11 20:50:33,581 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2018-01-11 20:50:33,582 INFO o.a.j.JMeter: Setting System property: java.rmi.server.hostname=192.168.0.8
+2018-01-11 20:50:33,588 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2018-01-11 20:50:33,588 INFO o.a.j.JMeter: Version 3.3 r1808647
+2018-01-11 20:50:33,588 INFO o.a.j.JMeter: java.version=1.8.0_151
+2018-01-11 20:50:33,588 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-01-11 20:50:33,588 INFO o.a.j.JMeter: os.name=Windows 10
+2018-01-11 20:50:33,588 INFO o.a.j.JMeter: os.arch=amd64
+2018-01-11 20:50:33,588 INFO o.a.j.JMeter: os.version=10.0
+2018-01-11 20:50:33,588 INFO o.a.j.JMeter: file.encoding=Cp1252
+2018-01-11 20:50:33,588 INFO o.a.j.JMeter: Max memory     =536870912
+2018-01-11 20:50:33,588 INFO o.a.j.JMeter: Available Processors =4
+2018-01-11 20:50:33,593 INFO o.a.j.JMeter: Default Locale=English (India)
+2018-01-11 20:50:33,596 INFO o.a.j.JMeter: JMeter  Locale=English (India)
+2018-01-11 20:50:33,596 INFO o.a.j.JMeter: JMeterHome=C:\Users\Yajana\apache-jmeter-3.3\apache-jmeter-3.3
+2018-01-11 20:50:33,596 INFO o.a.j.JMeter: user.dir  =C:\Users\Yajana\apache-jmeter-3.3\apache-jmeter-3.3\bin
+2018-01-11 20:50:33,597 INFO o.a.j.JMeter: PWD       =C:\Users\Yajana\apache-jmeter-3.3\apache-jmeter-3.3\bin
+2018-01-11 20:50:38,107 INFO o.a.j.JMeter: IP: 192.168.99.1 Name: DESKTOP-4HBDBJJ FullName: DESKTOP-4HBDBJJ
+2018-01-11 20:50:38,309 INFO o.a.j.e.RemoteJMeterEngineImpl: Starting backing engine on 1099
+2018-01-11 20:50:38,309 INFO o.a.j.e.RemoteJMeterEngineImpl: Resolving by name the value of System property 'java.rmi.server.hostname': 192.168.0.8
+2018-01-11 20:50:38,309 INFO o.a.j.e.RemoteJMeterEngineImpl: Local IP address=192.168.0.8
+2018-01-11 20:50:38,309 INFO o.a.j.e.RemoteJMeterEngineImpl: IP address is a site-local address; this may cause problems with remote access.
+	Can be overridden by defining the system property 'java.rmi.server.hostname' - see jmeter-server script file
+2018-01-11 20:50:38,309 INFO o.a.j.e.RemoteJMeterEngineImpl: Creating RMI registry (server.rmi.create=true)
+2018-01-11 20:50:38,311 INFO o.a.j.e.RemoteJMeterEngineImpl: Bound to registry on port 1099
